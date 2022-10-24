@@ -1,0 +1,61 @@
+body,
+html {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.container {
+    width: 100%;
+    vertical-align: middle;
+    padding-top: 50px;
+}
+
+body {
+    background-color: #ececec;
+}
+
+
+.Box {
+    width: 500px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 100px;
+    margin-left: 0;
+    margin-bottom: 0;
+}
+
+#inputList {
+    width: 200px;
+    height: 46px;
+    vertical-align: middle;
+    border: none;
+    background-color: rgb(236, 236, 236);
+    border-bottom: 1px black;
+}
+
+
+
+#AddToDo {
+
+    height: 50px;
+    border: none;
+    vertical-align: middle;
+    background-color: aqua;
+
+}
+
+#AddToDo:hover {
+
+    background-color: aquamarine;
+
+}
+
+
+.to-dos {
+    margin-top: 30px;
+
+}
